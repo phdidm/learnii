@@ -4,7 +4,7 @@ Exercices en programmation
 
 Variables et affectation
 ########################
-.. literalinclude:: affectation.py
+.. literalinclude::affectation.py
     :linenos:
     :language: python
     :lines: 1, 3-5
