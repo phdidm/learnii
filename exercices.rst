@@ -10,3 +10,13 @@ Variables et affectation
     :lines: 1, 3-5
     :start-after: 3
     :end-before: 5
+===== ========= =====
+Table Headings  Here
+--------------- -----
+Sub   Headings  Too
+===== ========= =====
+column spanning no
+--------------- -----
+cell  cell      row
+column spanning spans
+=============== =====
