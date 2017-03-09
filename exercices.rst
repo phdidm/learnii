@@ -1,6 +1,8 @@
 **************************
 Exercices en programmation
 **************************
+1. Ecrivez un programme qui lit une valeur entière nombreDeJours au clavier et qui la convertit en nombre d'années de semaines et de jours.
+2. Ecrivez un programme qui lit une valeur entière nombreDeSecondes au clavier et qui la convertit en nombre d'années de semaines, de jours d'heures, de minutes et de secondes.
 
 Variables et affectation
 ########################
